@@ -241,3 +241,22 @@ $ helm install kibana kibana
 
 
 
+> - [ ] Changes the LoadBalancer of the type of the Kibana content to `NodePort`
+>
+>   ```bash
+>   $ kubectl edit svc kibana-kibana
+>   ...
+>   type: NodePort
+>   ...
+>   ```
+>
+> - [ ] Open your browser and enter Kibana URL: https://<node-ip>:<nodeport>, like the following:
+>
+>   ```
+>   http://192.168.126.100:31533
+>   ```
+
+
+
+
+
