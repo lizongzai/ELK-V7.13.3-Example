@@ -255,16 +255,17 @@ $ helm install kibana kibana
 >   ```
 >   http://192.168.126.100:31533
 >   ```
+  
 
 
-
-
-For Example:
-Now we deploy an application server named Nginx to the Kubernetes Cluster via GitOps, and open a browser to access the application server UI. meanwhile we can obtain the log information about user access to NGINX on the Kibana interface.
+> - [ ] For Example:  Now we deploy an application server named Nginx to the Kubernetes Cluster via GitOps, and open a browser to access the application server UI. meanwhile we can obtain the log information about user access to NGINX on the Kibana interface.  
+  
   
 ![image](https://user-images.githubusercontent.com/49580847/170850683-2d5587bf-d6ee-410f-b682-64b3ff7fdc29.png)
+  
 
 ![image](https://user-images.githubusercontent.com/49580847/170850689-b4e964a7-c055-4c03-91fd-3d8c9295c4f9.png)
+  
 
 ![image](https://user-images.githubusercontent.com/49580847/170850712-13cd8708-8015-4fb1-9842-82aa2588aab6.png)
 
