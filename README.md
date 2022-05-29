@@ -260,5 +260,10 @@ $ helm install kibana kibana
 
 
 for example
-![image](https://user-images.githubusercontent.com/49580847/170850650-f3ac5628-e8d2-4a12-a721-b3f85b747fd2.png)
+![image](https://user-images.githubusercontent.com/49580847/170850683-2d5587bf-d6ee-410f-b682-64b3ff7fdc29.png)
+
+![image](https://user-images.githubusercontent.com/49580847/170850689-b4e964a7-c055-4c03-91fd-3d8c9295c4f9.png)
+
+![image](https://user-images.githubusercontent.com/49580847/170850712-13cd8708-8015-4fb1-9842-82aa2588aab6.png)
+
 
